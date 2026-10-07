@@ -6,7 +6,8 @@ I'm a Computer Science graduate focused on building practical skills in Data Sci
 
 I enjoy working with data, understanding patterns, building machine learning models, and turning data into useful insights.
 
-🛠️ Skills
+🛠️ Skills:
+
 Programming|
 |Python
 |SQL / MySQL
@@ -29,18 +30,20 @@ Programming|
 |Linear Algebra
 |Problem Solving
 
-📜 Certifications
+📜 Certifications:
+
 Machine Learning with Python — IBM
 Crash Course on Python — Google
 
-🎯 Current Focus
-Data Science
-Machine Learning
-SQL
-Statistics
-Feature Engineering
-Building end-to-end ML projects
-Data Structures & Algorithms
+🎯 Current Focus:
+
+Data Science|
+Machine Learning|
+SQL|
+Statistics|
+Feature Engineering|
+Building end-to-end ML projects|
+Data Structures & Algorithms|
 
 📫 Connect With Me
 
