@@ -7,27 +7,27 @@ I'm a Computer Science graduate focused on building practical skills in Data Sci
 I enjoy working with data, understanding patterns, building machine learning models, and turning data into useful insights.
 
 🛠️ Skills
-Programming
-Python
-SQL / MySQL
-Data Science
-NumPy
-Pandas
-Matplotlib
-Seaborn
-Data Cleaning
-Exploratory Data Analysis
-Feature Engineering
-Statistics
-Data Visualization
-Machine Learning
-Scikit-learn
-Feature Selection
-Machine Learning Pipelines
-Computer Science
-Data Structures & Algorithms
-Linear Algebra
-Problem Solving
+Programming|
+|Python
+|SQL / MySQL
+|Data Science
+|NumPy
+|Pandas
+|Matplotlib
+|Seaborn
+|Data Cleaning
+|Exploratory Data Analysis
+|Feature Engineering
+|Statistics
+|Data Visualization
+|Machine Learning
+|Scikit-learn
+|Feature Selection
+|Machine Learning Pipelines
+|Computer Science
+|Data Structures & Algorithms
+|Linear Algebra
+|Problem Solving
 
 📜 Certifications
 Machine Learning with Python — IBM
