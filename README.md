@@ -1,4 +1,4 @@
-Hi, I'm Mandeep 👋
+### Hi, I'm Mandeep 👋
 
 B.Tech Computer Science Graduate | Python | Data Science | Machine Learning
 
@@ -6,7 +6,7 @@ I'm a Computer Science graduate focused on building practical skills in Data Sci
 
 I enjoy working with data, understanding patterns, building machine learning models, and turning data into useful insights.
 
-🛠️ Skills:
+### 🛠️ Skills:
 
 Programming|
 |Python
@@ -24,27 +24,37 @@ Programming|
 |Machine Learning
 |Scikit-learn
 |Feature Selection
-|Machine Learning Pipelines
 |Computer Science
 |Data Structures & Algorithms
 |Linear Algebra
 |Problem Solving
 
-📜 Certifications:
+### 🚀 Featured Projects
+
+- Customer Churn Prediction|
+- Global Superstore Analysis
+- 
+### 📜 Certifications:
 
 Machine Learning with Python — IBM
 Crash Course on Python — Google
 
-🎯 Current Focus:
+### 🎯 Current Focus:
 
+Data Analyst|
 Data Science|
 Machine Learning|
 SQL|
 Statistics|
 Feature Engineering|
-Building end-to-end ML projects|
+Building end-to-end projects|
+CASE study|
 Data Structures & Algorithms|
 
-📫 Connect With Me
+## 📄 Resume
 
-LinkedIn: www.linkedin.com/in/mandeep-singh-170614203
+[Download My Resume](./resume.pdf) 
+
+### 🤝 Connect With Me
+- LinkedIn: www.linkedin.com/in/mandeepsingh2806
+- Email: mandeepsingh971159@gmail.com
