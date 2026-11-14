@@ -16,11 +16,19 @@ I enjoy working with data, understanding patterns, building machine learning mod
 - **Tools:** Jupyter Notebook, VS Code, MySQL Workbench, Git, GitHub
 - **Currently Learning:** DSA, Generative AI
 
-### 🚀 Featured Projects
+### 📂 Featured Projects
 
-- Customer Churn Prediction|
-- Global Superstore Analysis
-- 
+### 1. Customer Churn Analysis & Prediction
+- Analyzed customer churn patterns using Python and SQL.
+- Performed exploratory data analysis and feature engineering.
+- Developed a Logistic Regression classification model.
+## Technologies: Python, MySQL, Pandas, NumPy, Scikit-learn
+
+### 2. Global Superstore Analysis
+-Performing end-to-end business data analysis.
+-Cleaning and exploring sales and profit data.
+-Developing SQL business insights and Power BI dashboards.
+
 ### 📜 Certifications:
 
 Machine Learning with Python — IBM
