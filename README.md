@@ -19,16 +19,18 @@ I enjoy working with data, understanding patterns, building machine learning mod
 ### 📂 Featured Projects
 
 ### 1. Customer Churn Analysis & Prediction
+
+Technologies: Python, MySQL, Pandas, NumPy, Scikit-learn
 - Analyzed customer churn patterns using Python and SQL.
 - Performed exploratory data analysis and feature engineering.
 - Developed a Logistic Regression classification model.
-  Technologies: Python, MySQL, Pandas, NumPy, Scikit-learn
 
 ### 2. Global Superstore Analysis
+
+Technologies: MySQL, Excel, Power BI, Python
 - Performing end-to-end business data analysis.
 - Cleaning and exploring sales and profit data.
 - Developing SQL business insights and Power BI dashboards.
-  Technologies: MySQL, Excel, Power BI, Python
 
 ### 📜 Certifications:
 
