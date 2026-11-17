@@ -1,6 +1,8 @@
 ### Hi, I'm Mandeep 👋
 
-B.Tech Computer Science Graduate | Python | Data Science | Machine Learning
+B.Tech Computer Science Graduate
+
+Aspiring Data Analyst | SQL | Python | Power BI | Excel
 
 I'm a Computer Science graduate focused on building practical skills in Data Science and Machine Learning.
 
